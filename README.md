@@ -13,5 +13,4 @@ A database system for managing cars, employees, customers, and sales in a car de
 3. (Optional) Run `insert_data.sql` for sample records
 4. (Optional) Use `queries.sql` for reports
 
-## 🧠 Author
-Cyrus — Computer Science student passionate about databases and Oracle SQL
+
